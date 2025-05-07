@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/Kaif-Nazir/Kaif-Nazir/raw/main/logo_in_webpage.png" width="100">
+      <img src="https://github.com/Kaif-Nazir/Kaif-Nazir/raw/main/logo.png" width="100">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
       <h1 style="font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; font-weight: 600;">
@@ -12,7 +12,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github.com/Kaif-Nazir/Kaif-Nazir/raw/main/intern.png" width="250" />
+  <img src="https://github.com/Kaif-Nazir/Kaif-Nazir/raw/main/intern.png" width="250"/>
 </p>
 <p align="center" style="font-size: 14px; color: #555;"></p>
 
@@ -32,7 +32,7 @@ I am a passionate software developer focused on **Java** and **backend developme
 
 - **Languages**: Java, SQL, HTML, CSS, JavaScript
 - **Frameworks**: Spring Boot, JavaFX
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL
 - **Tools**: Git, Maven, IntelliJ IDEA, VS Code
 
 ## 📈 LeetCode Stats
