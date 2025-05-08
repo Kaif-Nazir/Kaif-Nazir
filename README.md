@@ -4,9 +4,7 @@
       <img src="https://github.com/Kaif-Nazir/Kaif-Nazir/raw/main/logo.png" width="100">
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <h1 style="font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; font-weight: 600;">
-        Hello, I'm Mohd Kaif Nazir 👋
-      </h1>
+      <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=35&duration=2500&pause=650&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+Developers%2C++Welcome!;I'm+Mohammad+Kaif+Nazir;Backend+Dev+%7C+Java" alt="Typing SVG">
     </td>
   </tr>
 </table>
@@ -21,7 +19,7 @@ I am a passionate software developer focused on **Java** and **backend developme
 
 - ✅ Recently completed:
   - **[Safex Bank](https://github.com/Kaif-Nazir/SafexBank)** – a JavaFX-based banking app with secure transactions.
-  - **[K-Direct](https://github.com/Kaif-Nazir/K-Direct)** – a sleek JavaFX-based messaging app with real-time chat .
+  - **[K-Direct](https://github.com/Kaif-Nazir/K-Direct)** – a sleek JavaFX-based messaging app with real-time chat.
 - 🌱 Learning **Spring Boot** for backend development.
 - 👨‍💻 Actively **looking for a backend internship** to grow and contribute to real-world projects.
 - 👯 Open to collaborate on backend Java projects.
@@ -31,14 +29,27 @@ I am a passionate software developer focused on **Java** and **backend developme
 
 ---
 
-## 🚀 Technologies & Tools
+## 💻 Tech Stack:
+![JAVA](https://img.shields.io/badge/JAVA-green?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=black)
+![DSA](https://img.shields.io/badge/DSA-blue?style=for-the-badge&logo=codersrank&logoColor=black&labelColor=cyan)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPS-%231E90FF?style=for-the-badge&logo=opencollective&logoColor=black&labelColor=green)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![Maven](https://img.shields.io/badge/MAVEN-%23B22222?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=%232c2c2c)
 
-- **Languages**: Java, SQL, HTML, CSS, JavaScript  
-- **Frameworks**: Spring Boot, JavaFX  
-- **Databases**: MySQL  
-- **Tools**: Git, Maven, IntelliJ IDEA, VS Code
 
 ---
+## 👨‍💻 View My Portfolio
+
+> 📁 **Check out my work!**  
+>  
+> ![Portfolio](https://img.shields.io/badge/PORTFOLIO-%09%23BF00FF?style=for-the-badge&logo=ray&logoColor=white&labelColor=%232c2c2c&link=https%3A%2F%2Fmkaifnazir.netlify.app%2F)
+
+
+---
+
 
 ## 📈 LeetCode Stats
 
@@ -46,16 +57,11 @@ I am a passionate software developer focused on **Java** and **backend developme
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohd Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaif-Nazir&show_icons=true&count_private=true&theme=radical)
-
----
-
 ## 📣 Connect with Me
+
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammad-kaif-nazir-30b823280/)  
 - **Telegram**: [@KaifNazir](https://t.me/md_kaif_4762)  
 - **Email**: [md.kaif4762@gmail.com](mailto:md.kaif4762@gmail.com)
+- **Leetcode**: [LeetCode](https://leetcode.com/u/KaifNazir/)
 
----
