@@ -45,7 +45,8 @@ I am a passionate software developer focused on **Java** and **backend developme
 
 > 📁 **Check out my work!**  
 >  
-> ![Portfolio](https://img.shields.io/badge/PORTFOLIO-%09%23BF00FF?style=for-the-badge&logo=ray&logoColor=white&labelColor=%232c2c2c&link=https%3A%2F%2Fmkaifnazir.netlify.app%2F)
+> [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%09%23BF00FF?style=for-the-badge&logo=ray&logoColor=white&labelColor=%232c2c2c)](https://mkaifnazir.netlify.app/)
+
 
 
 ---
