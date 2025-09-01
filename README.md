@@ -52,6 +52,10 @@ I am a passionate software developer focused on **Java** and **backend developme
 ---
 
 
+<h2>⚡️Leetcode Calendar</h2>
+<p><img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=KaifNazir" width="100%"><p>
+<p><img src="https://leetcode-badge-showcase.vercel.app/api?username=KaifNazir" alt="LeetCode Badges" /></p>
+
 ## 📈 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KaifNazir?theme=dark&font=baloo&ext)
