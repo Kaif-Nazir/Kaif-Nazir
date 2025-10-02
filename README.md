@@ -18,12 +18,12 @@
 I am a passionate software developer focused on **Java** and **backend development**. Currently, I'm learning **Data Structures & Algorithms (DSA)** and enhancing my skills in **Spring Boot** and **JavaFX**.
 
 - ✅ Recently completed:
+  - **[Cartify](https://github.com/Kaif-Nazir/Cartify)** – a Spring Boot based shopping cart application with secure APIs for managing carts, items, and orders.
   - **[Safex Bank](https://github.com/Kaif-Nazir/SafexBank)** – a JavaFX-based banking app with secure transactions.
-  - **[K-Direct](https://github.com/Kaif-Nazir/K-Direct)** – a sleek JavaFX-based messaging app with real-time chat.
 - 🌱 Learning **Spring Boot** for backend development.
 - 👨‍💻 Actively **looking for a backend internship** to grow and contribute to real-world projects.
 - 👯 Open to collaborate on backend Java projects.
-- 💬 Ask me about **Java**, **DSA**, **Spring Boot**, **JavaFX**, or anything else you’d like!
+- 💬 Ask me about **Java**, **DSA**, **Spring Boot**, **Sql**, **Hibernate**, **JPA**, **ModelMapper**, **Lombok**, **JavaFX**, or anything else you’d like!
 - 📫 Reach me at: **[md.kaif4762@gmail.com](mailto:md.kaif4762@gmail.com)**
 - ⚡ Fun fact: I love finding efficient solutions to complex problems!
 
