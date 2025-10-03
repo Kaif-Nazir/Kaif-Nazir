@@ -41,11 +41,14 @@ I am a passionate software developer focused on **Java** and **backend developme
 
 
 ---
+
 ## 👨‍💻 View My Portfolio
 
-> 📁 **Check out my work!**  
->  
-> [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%09%23BF00FF?style=for-the-badge&logo=ray&logoColor=white&labelColor=%232c2c2c)](https://mkaifnazir.netlify.app/)
+> 📁 **Check out my work!**
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%09%23BF00FF?style=for-the-badge&logo=ray&logoColor=white&labelColor=%232c2c2c)](https://mkaifnazir.netlify.app/)
+
+🔗 *Click the badge above to explore my projects and work in detail.*
 
 
 
@@ -62,11 +65,16 @@ I am a passionate software developer focused on **Java** and **backend developme
 
 ---
 
+## 🐍 Watch my contributions come to life
+
+![snake gif](https://github.com/Kaif-Nazir/Kaif-Nazir/blob/output/github-snake-mint.svg)
+
 ## 📣 Connect with Me
 
-
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammad-kaif-nazir-30b823280/)  
-- **Telegram**: [@KaifNazir](https://t.me/md_kaif_4762)  
-- **Email**: [md.kaif4762@gmail.com](mailto:md.kaif4762@gmail.com)
-- **Leetcode**: [LeetCode](https://leetcode.com/u/KaifNazir/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-kaif-nazir-30b823280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/md_kaif_4762"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:md.kaif4762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/KaifNazir/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
