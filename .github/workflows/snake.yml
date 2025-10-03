@@ -11,21 +11,17 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contributions Snake Animations
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-dark-cyan.svg?palette=github-dark&color_snake=#00ffff
-            dist/ocean.gif?palette=github-dark&color_snake=#00ffff
+            dist/github-snake-dark.svg?color_snake=#00ffff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
