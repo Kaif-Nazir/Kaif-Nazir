@@ -2,7 +2,7 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -23,8 +23,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ffff
-            dist/ocean.gif?color_snake=#00ffff
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark-cyan.svg?palette=github-dark&color_snake=#00ffff
+            dist/ocean.gif?palette=github-dark&color_snake=#00ffff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
