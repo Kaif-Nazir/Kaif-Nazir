@@ -37,8 +37,8 @@ I am a ***full-stack*** software developer specializing in **Java backend develo
 ![SpringSecurity](https://img.shields.io/badge/Spring--Security-white?style=for-the-badge&logo=cyberdefenders&logoColor=%237dffff&labelColor=black&color=%23e3fafa) &nbsp;
 ![JWT](https://img.shields.io/badge/JWT-pink?style=for-the-badge&logo=jsonwebtokens&logoColor=black&labelColor=D0D0D0&color=BC32E5) &nbsp;
 ![React](https://img.shields.io/badge/React-04cfa5?style=for-the-badge&logo=react&labelColor=black) &nbsp;
-![PostgreSql](https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql&logoColor=black&logoSize=auto&labelColor=%23b4d0ff&color=%23006319) &nbsp;
 ![MySql](https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=%23000844&color=%23dddfea) &nbsp;
+![PostgreSql](https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql&logoColor=black&logoSize=auto&labelColor=%23b4d0ff&color=%23006319) &nbsp;
 
 <br>
 
@@ -67,7 +67,6 @@ I am a ***full-stack*** software developer specializing in **Java backend develo
 
 
 <h2>⚡️Leetcode Calendar</h2>
-<p><img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=KaifNazir" width="100%"><p>
 <p><img src="https://leetcode-badge-showcase.vercel.app/api?username=KaifNazir" alt="LeetCode Badges" /></p>
 
 ## 📈 LeetCode Stats
