@@ -75,10 +75,6 @@ I am a ***full-stack*** software developer specializing in **Java backend develo
 
 ---
 
-## 🐍 Watch my contributions come to life
-
-![snake gif](https://github.com/Kaif-Nazir/Kaif-Nazir/blob/output/github-snake-mint.svg)
-
 ## 📣 Connect with Me
 
 <p align="center">
